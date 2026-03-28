@@ -23,14 +23,8 @@
 
   ## 📊 My GitHub Statistics
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
-
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spathneja21&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 </div>
