@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate AI algorithm developer from India</h3>
+<h3 align="center">A passionate Robotics and AI algorithms developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spathneja21&label=Profile%20views&color=0e75b6&style=flat" alt="spathneja21" /> </p>
 
-- 🌱 I’m currently learning **to deploy autonomous AI agents.**
+- 🌱 I’m currently learning **to use VLA pipelines for autonomous robotic systems**
 
 - 👨‍💻 All of my projects are available at [https://shubhampathneja.vercel.app/](https://shubhampathneja.vercel.app/)
 
 - 📝 I regularly write articles on [https://substack.com/@shubhampathneja21](https://substack.com/@shubhampathneja21)
 
-- 📫 How to reach me **shubhampathneja123@gmail.com**
+- 📫 How to reach me **shubhampathneja.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
